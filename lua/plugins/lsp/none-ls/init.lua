@@ -21,7 +21,7 @@ function M.config()
 			formatting.black,
 			-- diagnostics.mypy,
 
-			-- formatting.prettier,
+			formatting.prettier,
 			formatting.fish_indent,
 			diagnostics.djlint,
 			formatting.shfmt,

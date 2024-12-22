@@ -37,7 +37,6 @@ M.opts = {
 		},
 		file_ignore_patterns = {
 			".git/",
-			"tests/",
 			"node_modules",
 		},
 	},

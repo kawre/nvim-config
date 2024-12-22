@@ -22,11 +22,11 @@ end
 M.opts = {
 	window = {
 		position = "left",
-		width = 60,
+		width = 50,
 	},
 	default_component_configs = {
 		indent = {
-			indent_size = 3,
+			indent_size = 2,
 			-- highlight = "Comment",
 		},
 		icon = {
